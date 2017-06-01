@@ -63,12 +63,11 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 242);
+/******/ 	return __webpack_require__(__webpack_require__.s = 2);
 /******/ })
 /************************************************************************/
-/******/ ({
-
-/***/ 113:
+/******/ ([
+/* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -130,8 +129,7 @@ React.createElement(
 );
 
 /***/ }),
-
-/***/ 114:
+/* 1 */
 /***/ (function(module, exports) {
 
 (function(self) {
@@ -598,14 +596,12 @@ React.createElement(
 
 
 /***/ }),
-
-/***/ 242:
+/* 2 */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(114);
-module.exports = __webpack_require__(113);
+__webpack_require__(1);
+module.exports = __webpack_require__(0);
 
 
 /***/ })
-
-/******/ });
+/******/ ]);
